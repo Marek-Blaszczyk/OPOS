@@ -1,0 +1,52 @@
+{
+  "filename" : "mapy.json",
+  "files" : [ {
+    "filename" : "mapa1.png",
+    "file_type" : "png",
+    "region" : "Baltic/Gdansk Bay",
+    "map_type" : "SATELLITE",
+    "offset" : [ 20, 20, 20, 20 ],
+    "fi_coord" : [ 54.34989, 54.82733 ],
+    "la_coord" : [ 18.423336, 19.654062 ],
+    "id" : -506412368,
+    "zoom" : -1.0,
+    "center_coord" : [ 54.34989, 19.654062 ]
+  }, {
+    "filename" : "mapa2.png",
+    "file_type" : "png",
+    "region" : "Baltic/Gdansk Bay",
+    "map_type" : "ROADMAP",
+    "offset" : [ 20, 20, 20, 20 ],
+    "fi_coord" : [ 54.34989, 54.82733 ],
+    "la_coord" : [ 18.423336, 19.654062 ],
+    "id" : -505488847,
+    "zoom" : -1.0,
+    "center_coord" : [ 54.34989, 19.654062 ]
+  }, {
+    "filename" : "mapa3.jpg",
+    "file_type" : "jpg",
+    "region" : "Baltic/Pomeranian Bay",
+    "map_type" : "TERRAIN",
+    "offset" : [ 20, 20, 20, 20 ],
+    "fi_coord" : [ 54.34989, 54.82733 ],
+    "la_coord" : [ 18.423336, 19.654062 ],
+    "id" : -504571030,
+    "zoom" : -1.0,
+    "center_coord" : [ 54.34989, 19.654062 ]
+  }, {
+    "filename" : "2.png",
+    "file_type" : "PNG",
+    "offset" : [ 0, 0, 0, 0 ],
+    "id" : 47657581,
+    "zoom" : -1.0
+  }, {
+    "filename" : "3.jpg",
+    "file_type" : "JPG",
+    "region" : "",
+    "map_type" : "ROADMAP",
+    "offset" : [ 0, 0, 6012, 4524 ],
+    "id" : 48575398,
+    "zoom" : -1.0,
+    "center_coord" : [ 55.12345504760742, 18.123456954956055 ]
+  } ]
+}
